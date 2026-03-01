@@ -35,8 +35,8 @@
 
 ## 🛠️ 技术栈 (Tech Stack)
 
-*   **☕ 后端开发 (Backend):** Java 生态 (`Spring Boot`, `MyBatis`) ｜ Python 生态 (`FastAPI`, `Django`, `Flask`)
-*   **💻 前端开发 (Frontend):** `React`｜  `Vue` ｜ `TypeScript`
+*   **☕ 后端开发 (Backend):** Java 生态 ｜ Python 生态  | `Node.js`
+*   **💻 前端开发 (Frontend):** `React`｜  `Vue` ｜ `TypeScript` | `Tailwind CSS`
 *   **🤖 人工智能 (AI):** 模型推理 ｜ 轻量级模型微调与训练
 *   **🚀 算力生态 (Ecosystem):** 英伟达 (`NVIDIA`) 训练推理生态 ｜ 华为昇腾 (`Ascend`) 国产化全栈适配
 *   🔮 **前沿探索 (Tech Exploration):** 精通 `AI 编程` 与 `Vibe Coding` 范式，对新技术保持极高的敏锐度与极致追求
