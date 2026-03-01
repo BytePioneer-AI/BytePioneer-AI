@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="https://githubcard.com/BytePioneer-AI.svg?d=zDY6RY4y" alt="GitHubCard" />
+  <img src="https://githubcard.com/BytePioneer-AI.svg?d=Qz-Z5vUv" alt="GitHubCard" />
 </div>
 
 </div>
