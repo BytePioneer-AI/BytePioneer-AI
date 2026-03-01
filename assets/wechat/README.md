@@ -4,11 +4,11 @@
   <table>
     <tr>
       <td align="center">
-        <b>图1：微信公众号</b><br>
+        <b>图1：微信公众号（个人技术笔记）</b><br>
         <img src="./gzh.jpg" width="320" alt="微信公众号" />
       </td>
       <td align="center">
-        <b>图2：微信二维码</b><br>
+        <b>图2：个人微信</b><br>
         <img src="./qr.jpg" width="320" alt="微信二维码" />
       </td>
     </tr>
